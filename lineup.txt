@@ -1,4 +1,4 @@
 1. ant
 2. doe
-3.joe
+3. joe
 4. john
